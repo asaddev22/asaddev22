@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Asad!
-- 👀 I’m interested in Web and Dapps Development
+- 👀 I’m interested in Web and Dapps
 - 🌱 I’m currently learning Javascript and Solidity
 - 💞️ I’m looking to collaborate on my client's project
 - 📫 How to reach me asaddev22@gmail.com
